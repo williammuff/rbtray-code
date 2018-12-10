@@ -1,4 +1,7 @@
 # rbtray-code
+
+:TODO... Add same ability (right click) on task bar icon... Stupid Fuze!
+
 A minor fork of RBTray from http://sourceforge.net/p/rbtray/code/
 
 Version 4.4
